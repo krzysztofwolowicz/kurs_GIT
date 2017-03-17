@@ -1,4 +1,7 @@
 /config/config.json
+<<<<<<< HEAD
 !/cache/.gitkeep
 /cache/*
 .netbeans.xml
+=======
+>>>>>>> fc428bf... wprowadzenie ignorowania plików
